@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vot:home|Door43 (vot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vot|d43-vot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vot/archive/master.zip|d43-vot.zip]]
+
+**Recent Changes**
+{{changes>ns = vot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vot|Ethnologue data]]
+
